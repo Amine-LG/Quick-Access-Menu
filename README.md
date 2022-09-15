@@ -1,5 +1,5 @@
 
-# Quick Acess Menu
+# Quick Access Menu
 A Custom Quick Access Menu made with Autohotkey, HTML, CSS and Javascript. 
 
 It uses Neutron.ahk library :  [G33kDude / Neutron.ahk](https://github.com/G33kDude/Neutron.ahk)
